@@ -1,0 +1,91 @@
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/fontawesome.min.css'); */
+/* @import url('https://fonts.googleapis.com/css?family=Roboto'); */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    font-family: 'Open Sans';
+    font-size: 90%;
+    /* font-weight: 700; */
+    width: 800px;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+    background: #FFFFFF;
+}
+
+/* Title of the resume */
+h1 {
+    font-size: 55px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Titles of categories */
+h2 {
+    color: #00307d;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 17%;
+    height: 2px;
+    background-color: #4287f5;
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 17%;
+    /*font-weight: bold;*/
+}
+dd {
+    margin-left: 18%;
+}
+p {
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+/* .discrete {
+    color: darkgrey;
+} */
+
+discrete, .discrete {
+    color: darkgrey;
+    font-size: 80%;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 0px;
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #00307d;
+}
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+/* Horizontal separators */
+hr {
+    color: #A6A6A6;
+}
+
+li {
+    list-style-type: none;
+    position: relative;    /* It is required for setting position to absolute in the next rule. */
+}
+
+li::before {
+    content: '\2022';      /* Unicode for • character */
+    position: absolute;
+    left: -0.8em;          /* Adjust this value so that it appears where you want. */
+    font-size: 1.1em;      /* Adjust this value so that it appears what size you want. */
+}
