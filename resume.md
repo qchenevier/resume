@@ -18,14 +18,14 @@ Experience &nbsp;<i class="fa fa-suitcase"></i>
 --------------------
 
 From July 2018 </br><discrete>1 year+</discrete>
-: **Manager Data Scientist @ Capgemini** <discrete>&nbsp;--&nbsp; Paris & Toulouse, France</discrete>
+: **Manager Data Scientist @ Capgemini Invent** <discrete>&nbsp;--&nbsp; Paris & Toulouse, France</discrete>
 
     - Code quality coaching to harmonize good practices in the teams & monitor technical debt -- [code_quality](#code_quality), [git](#git), [pylint](#pylint), [coaching](#coaching)
     - Data science coaching of young data scientists to focus on actionable results -- [coaching](#coaching)
     - Recruiting for the team & revamping of the technical interview process -- [recruiting](#recruiting)
 
 2017 → 2018 </br><discrete>1 year</discrete>
-: **Senior Data Scientist @ Capgemini** <discrete>&nbsp;--&nbsp; Paris & Toulouse, France</discrete>
+: **Senior Data Scientist @ Capgemini Invent** <discrete>&nbsp;--&nbsp; Paris & Toulouse, France</discrete>
 
     - NLP deep learning to analyze Airbus customers feedback -- [gensim](#gensim), [keras](#keras), [coaching](#coaching)
     - Data science teaching to Airbus quality specialists -- [pyspark](#pyspark), [coaching](#coaching)
