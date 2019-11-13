@@ -6,10 +6,11 @@ title: Quentin Chenevier
 ----
 
 >  **Data Scientist, Manager & MBA**
->  Python, Machine Learning, Linux, Business Consulting
 
-> Makers are today’s leaders ! Highly qualified engineer and project leader, I’m resourceful and enthusiast to tackle new challenges. I like to make, learn & share and to embrace multiple roles.
-> Passionate about data science and graduated with an MBA from the Toulouse Business School since March 2018, I work my best to bring Intelligence to Humanity.
+<!-- > Makers are today’s leaders ! Highly qualified engineer and project leader, I’m resourceful and enthusiast to tackle new challenges. I like to make, learn & share and to embrace multiple roles.
+> Passionate about data science and graduated with an MBA from the Toulouse Business School since March 2018, I work my best to bring Intelligence to Humanity. -->
+
+> Passionate about data science and graduated with an MBA, I like to embrace multiple roles. I'm a maker which values impact, agility & intelligence. As a manager, my style is about leading, simplifying & enabling.
 
 ----
 
@@ -47,66 +48,17 @@ From July 2018 </br><discrete>1 year+</discrete>
 2010 → 2012 </br><discrete>2 years</discrete>
 : **Scientific Engineer @ Noveltis** <discrete>&nbsp;--&nbsp; Toulouse, France</discrete>
 
-    - Statistical analysis of infrared atmospheric spectrums to calibrate space instruments -- [fortran77](#fortran77)
+    - Statistical analysis of atmospheric spectra to calibrate space instruments -- [fortran77](#fortran77)
 
 2010 </br><discrete>6 months</discrete>
 : **M2 Internship @ LMD (Laboratoire de Météorologie Dynamique)** <discrete>&nbsp;--&nbsp; Palaiseau, France</discrete>
 
-    - Statistical analysis & inverse modelling of Lidar signal to determine biomass -- [python](#python), [numpy](#numpy)
+    - Statistical analysis & inverse modelling of LIDAR to determine biomass -- [python](#python), [numpy](#numpy)
 
 2009 </br><discrete>4 months</discrete>
 : **M1 Internship @ ONERA** <discrete>&nbsp;--&nbsp; Toulouse, France</discrete>
 
     - Statistical analysis of satellite measurements to study earth’s electric field -- [matlab](#matlab)
-
-2006 </br><discrete>8 months</discrete>
-: **Internship @ French Army, 35ème Régiment d’Artillerie Parachutiste** <discrete>&nbsp;--&nbsp; Tarbes, France</discrete>
-
-Open Source Contributions <i class="fab fa-github"></i>
-----------------------------------
-
-[ansible_sagemaker](https://github.com/qchenevier/ansible_sagemaker)
-: An ansible playbook mimicking the AWS Sagemaker product (deployment AWS EC2 & git repository cloning), allowing to benefit from the spot pricing of AWS (not available in Sagemaker) -- [aws EC2](#aws), [ansible](#ansible)
-
-[huma.io](https://huma.io)
-: A blog about Humans & Machines, built as a single page app on a static page -- [vuejs](#vuejs)
-
-[macbook_setup](https://github.com/qchenevier/ansible_sagemaker)
-: A set of scripts to install proper tooling on the macbooks of my data science team -- [bash](#bash)
-
-Skills &nbsp;<i class="fa fa-check-circle"></i>
-----------------------------------
-
-Devops
-: <a name="ansible">ansible</a>,
-<a name="git">git</a>,
-<a name="code_quality">code quality</a>,
-<a name="pylint">pylint</a>,
-<a name="vuejs">vuejs</a>,
-<a name="aws">aws EC2</a>
-
-Machine Learning
-: <a name="scikit-learn">scikit-learn</a>,
-<a name="keras">keras</a>,
-<a name="gensim">gensim</a>,
-
-Data Engineering
-: <a name="python">python</a>,
-<a name="pyspark">pyspark</a>,
-<a name="pandas">pandas</a>,
-<a name="numpy">numpy</a>,
-<a name="dask">dask</a>,
-<a name="sql">sql</a>,
-<a name="matlab">matlab</a>,
-<a name="fortran77">fortran77</a>
-
-Management
-: <a name="change">change</a>,
-<a name="agility">agility</a>,
-<a name="trust_based_organizations">trust based organizations</a>,
-<a name="coaching">coaching</a>,
-<a name="recruiting">recruiting</a>
-&nbsp;
 
 Education &nbsp;<i class="fa fa-graduation-cap"></i>
 ---------
@@ -137,6 +89,55 @@ Online Education &nbsp;<i class="fa fa-graduation-cap"></i>  <i class="fa fa-lap
 2015
 :   _Coursera, Ecole Polytechnique & HEC_ - Creation & Developement of Technological Startups
 
+Skills &nbsp;<i class="fa fa-check-circle"></i>
+----------------------------------
+
+Devops
+: <a name="ansible">ansible</a>,
+<a name="git">git</a>,
+<a name="code_quality">code quality</a>,
+<a name="pylint">pylint</a>,
+<a name="vuejs">vuejs</a>,
+<a name="aws">AWS EC2</a>
+
+Machine Learning
+: <a name="scikit-learn">scikit-learn</a>,
+<a name="keras">keras</a>,
+<a name="gensim">gensim</a>,
+
+Data Engineering
+: <a name="python">python</a>,
+<a name="pyspark">pyspark</a>,
+<a name="pandas">pandas</a>,
+<a name="numpy">numpy</a>,
+<a name="dask">dask</a>,
+<a name="sql">sql</a>,
+<a name="matlab">matlab</a>,
+<a name="fortran77">fortran77</a>
+
+Management
+: <a name="change">change</a>,
+<a name="agility">agility</a>,
+<a name="trust_based_organizations">trust based organizations</a>,
+<a name="coaching">coaching</a>,
+<a name="recruiting">recruiting</a>
+&nbsp;
+
+Open Source Contributions &nbsp;<i class="fab fa-github"></i>
+----------------------------------
+
+[ansible_sagemaker](https://github.com/qchenevier/ansible_sagemaker)
+: Infrastructure as code (Ansible) to mimick AWS Sagemaker (EC2 deployment, git clone, jupyter start, ssh tunnel), with the AWS spot price ! -- [ansible](#ansible), [AWS EC2](#aws)
+
+[huma.io](https://huma.io)
+: A blog about Humans & Machines, built as a single page app on a static page -- [vuejs](#vuejs)
+
+[macbook_setup](https://github.com/qchenevier/macbook_setup)
+: A set of scripts to setup proper tooling on the macbooks of my data science team -- [bash](#bash)
+
+[resume](https://github.com/qchenevier/resume)
+: This resume ! Automatically generated from markdown to HTML to PDF, using pandoc, python & GNU make
+
 Hobbies &nbsp;<i class="fa fa-gamepad"></i> <i class="fa fa-book"></i>
 ------------------------
 
@@ -145,6 +146,8 @@ Travelling
 
 Learning
 : **Enlightenment Now** - Steven Pinker | **Drive** - Daniel Pink | **Thinking Fast & Slow** - Daniel Kahnemann | **Nudge** - Thaler & Sunstein | **Value Proposition Design** - Strategyzer | **Business Model Generation** - Strategyzer | **Le Triple Moi** - Gysa Jaoui | **Clean Code** - Robert Cecil Martin | **The Value of Everything** - Mariana Mazzucato
+
+<br>
 
 ----
 

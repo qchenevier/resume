@@ -1,57 +1,72 @@
-/* @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/fontawesome.min.css'); */
-/* @import url('https://fonts.googleapis.com/css?family=Roboto'); */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+@page {
+    size: A4;
+    margin-top: 1cm;
+    margin-bottom: 0cm;
+    margin-left: 0cm;
+    margin-right: 0cm;
+}
 
 body {
-    font-family: 'Open Sans';
-    font-size: 90%;
-    /* font-weight: 700; */
-    width: 800px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80%;
+    font-weight: 400;
+    width: 714px;
     margin: auto;
-    padding: 10px 10px 10px 10px;
+    padding-left: 40px;
+    padding-right: 40px;
     background: #FFFFFF;
 }
+
 
 /* Title of the resume */
 h1 {
     font-size: 55px;
     color: #757575;
-    text-align:center;
-    margin-bottom:15px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    font-weight: normal;
 }
 
 /* Titles of categories */
 h2 {
     color: #00307d;
 }
+
 /* There is a bar just before each category */
 h2:before {
     content: "";
     display: inline-block;
-    margin-right:1%;
-    width: 17%;
+    margin-right: 2%;
+    width: 16%;
     height: 2px;
     background-color: #4287f5;
 }
 
 /* Definitions */
+dl {
+    page-break-inside: avoid !important;
+}
+
 dt {
     float: left;
     clear: left;
     width: 17%;
-    /*font-weight: bold;*/
-}
-dd {
-    margin-left: 18%;
-}
-p {
-    margin-top:5px;
-    margin-bottom:5px;
+    margin-top: 0px;
 }
 
-/* .discrete {
-    color: darkgrey;
-} */
+dd {
+    margin-top: 0px;
+    margin-bottom: 6px;
+    margin-left: 18%;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
 discrete, .discrete {
     color: darkgrey;
@@ -76,6 +91,10 @@ a:hover, a:active {
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
+}
+
+ul {
+    margin-bottom: 8px;
 }
 
 li {
