@@ -29,7 +29,7 @@ Auto-reload (for html) is done with `puer`.
 
 ### Installation
 
-##### Build tools
+#### Build tools
 
 Install `pandoc`:
 ```
@@ -41,13 +41,13 @@ Create a python environment to install `weasyprint`:
 conda env create -f environment.yml
 ```
 
-##### Auto-build
+#### Auto-build
 Installation of `watch` is done with `brew` (OSX only):
 ```
 brew install watch
 ```
 
-##### Auto-reload
+#### Auto-reload
 Installation of `puer` is done with `npm`
 ```
 npm install -g puer
@@ -55,7 +55,7 @@ npm install -g puer
 
 ### Launch
 
-##### Auto-build
+#### Auto-build
 
 Activate the environment which contains `weasyprint`:
 ```
@@ -67,7 +67,7 @@ Use `watch` to launch the build process every 0.5 second & rebuild the html file
 watch -n 0.5 make
 ```
 
-##### Auto-reload
+#### Auto-reload
 Launch puer to launch a webserver which will autoreload the html page when it has changed:
 ```
 puer
