@@ -9,7 +9,7 @@ resume.html: resume.md style.css
 	resume.md
 
 resume.pdf: resume.html
-	wkhtmltopdf resume.html resume.pdf
+	weasyprint resume.html resume.pdf
 
 clean:
 	rm resume.pdf resume.html

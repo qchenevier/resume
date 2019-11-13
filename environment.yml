@@ -1,0 +1,8 @@
+name: weasyprint
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.7
+  - weasyprint=50
+  - cairo=1.16.0
