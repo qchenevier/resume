@@ -10,14 +10,20 @@ title: Quentin Chenevier
 <!-- > Makers are today’s leaders ! Highly qualified engineer and project leader, I’m resourceful and enthusiast to tackle new challenges. I like to make, learn & share and to embrace multiple roles.
 > Passionate about data science and graduated with an MBA from the Toulouse Business School since March 2018, I work my best to bring Intelligence to Humanity. -->
 
-> Passionate about data science and graduated with an MBA, I like to embrace multiple roles. I'm a maker which values impact, agility & intelligence. As a manager, my style is about leading, simplifying & enabling.
+> Passionate about data science and graduated with an MBA, I like to embrace multiple roles. I'm a maker who values impact, agility & intelligence. As a manager, my style is about simplifying & enabling.
 
 ----
 
 Experience &nbsp;<i class="fa fa-suitcase"></i>
 --------------------
 
-From July 2018 </br><discrete>1 year+</discrete>
+From March 2020
+: **AI Product Manager @ Airbus** <discrete>&nbsp;--&nbsp; Toulouse, France</discrete>
+
+    - Customer financial analysis & risk anticipation -- [pandas](#python), [scikit-learn](#scikit-learn)
+    - Supply chain financial analysis & risk anticipation -- [pandas](#python)
+
+2018 → 2020 </br><discrete>2 years</discrete>
 : **Manager Data Scientist @ Capgemini Invent** <discrete>&nbsp;--&nbsp; Paris & Toulouse, France</discrete>
 
     - Code quality coaching to harmonize good practices in the teams & monitor technical debt -- [code_quality](#code_quality), [git](#git), [pylint](#pylint), [coaching](#coaching)
@@ -97,7 +103,6 @@ Devops
 <a name="git">git</a>,
 <a name="code_quality">code quality</a>,
 <a name="pylint">pylint</a>,
-<a name="vuejs">vuejs</a>,
 <a name="aws">AWS EC2</a>
 
 Machine Learning
@@ -115,6 +120,11 @@ Data Engineering
 <a name="matlab">matlab</a>,
 <a name="fortran77">fortran77</a>
 
+Front-end
+: <a name="javascript">javascript</a>,
+<a name="vuejs">vuejs</a>,
+<a name="nuxtjs">nuxtjs</a>
+
 Management
 : <a name="change">change</a>,
 <a name="agility">agility</a>,
@@ -126,17 +136,27 @@ Management
 Open Source Contributions &nbsp;<i class="fab fa-github"></i>
 ----------------------------------
 
-[ansible_sagemaker](https://github.com/qchenevier/ansible_sagemaker)
-: Infrastructure as code (Ansible) to mimick AWS Sagemaker (EC2 deployment, git clone, jupyter start, ssh tunnel), with the AWS spot price ! -- [ansible](#ansible), [AWS EC2](#aws)
+[🎵 Scribbleton Live](https://github.com/qchenevier/scribbleton-live)
+: a digital audio workstation, fully in-browser, deployed here [👉 scribbleton.live](https://scribbleton.live/) -- [vuejs](#vuejs), [nuxtjs](#nuxtjs)
 
-[huma.io](https://huma.io)
-: A blog about Humans & Machines, built as a single page app on a static page -- [vuejs](#vuejs)
+[📝 HuMa](https://github.com/qchenevier/huma)
+: a blog about Humans & Machines, deployed here [👉 huma.io](https://huma.io/) -- [vuejs](#vuejs), [nuxtjs](#nuxtjs)
 
-[macbook_setup](https://github.com/qchenevier/macbook_setup)
-: A set of scripts to setup proper tooling on the macbooks of my data science team -- [bash](#bash)
+[📄 Resume](https://github.com/qchenevier/resume)
+: this resume, automatically generated from markdown to HTML to PDF & available as a [👉&nbsp;web&nbsp;page](https://raw.githack.com/qchenevier/resume/master/resume.html) and a [👉 pdf](https://raw.githubusercontent.com/qchenevier/resume/master/resume.pdf)
 
-[resume](https://github.com/qchenevier/resume)
-: This resume ! Automatically generated from markdown to HTML to PDF, using pandoc, python & GNU make
+[🐼 Pandas Pipeline Graphviz](https://github.com/qchenevier/pandas-pipeline-graphviz)
+: a python package to build a nice explanative schema of a data pipeline in pandas -- [python](#python), [pandas](#pandas), [graphviz](#graphviz)
+
+[👨‍🏫 Cours IA](https://github.com/qchenevier/cours-IA)
+: a course on Artifical Intelligence for the [MBA](https://www.tbs-education.fr/formation/global-executive-mba/) of [TBS](https://www.tbs-education.fr/) (in french 🇫🇷): impact for the CEOs, the managers and as well for the mere citizens available as a [👉 html presentation](https://qchenevier.github.io/cours-IA/cours_12h_presentiel.html)
+
+[⚙️ Ansible Sagemaker](https://github.com/qchenevier/ansible_sagemaker)
+: an [ansible](https://github.com/ansible/ansible) playbook to mimic AWS Sagemaker (deploy EC2 & launch jupyter) while paying the spot price -- [ansible](#ansible), [AWS EC2](#aws)
+
+[🌍 Eumetsat OSX Wallpaper](https://github.com/qchenevier/eumetsat-osx-wallpaper)
+: a script to update in real time your macbook's wallpaper with a geostationary view of our planet -- [python](#python) </br>&nbsp;
+
 
 Hobbies &nbsp;<i class="fa fa-gamepad"></i> <i class="fa fa-book"></i>
 ------------------------
@@ -145,11 +165,11 @@ Travelling
 : 19 countries visited: Canada, Viêtnam, Kazakhstan...
 
 Learning
-: **Enlightenment Now** - Steven Pinker | **Drive** - Daniel Pink | **Thinking Fast & Slow** - Daniel Kahnemann | **Nudge** - Thaler & Sunstein | **Value Proposition Design** - Strategyzer | **Business Model Generation** - Strategyzer | **Le Triple Moi** - Gysa Jaoui | **Clean Code** - Robert Cecil Martin | **The Value of Everything** - Mariana Mazzucato
+: **Enlightenment Now** - Steven Pinker | **Drive** - Daniel Pink | **Thinking Fast & Slow** - Daniel Kahnemann | **Nudge** - Thaler & Sunstein | **Value Proposition Design** - Strategyzer | **Business Model Generation** - Strategyzer | **Le Triple Moi** - Gysa Jaoui | **Clean Code** - Robert Cecil Martin | **The Value of Everything** - Mariana Mazzucato | **Sapiens** - Yuval Noah Harari
 
 <br>
 
 ----
 
-> <huma.io> • +33 7 77 05 38 13 • 32 years old\
->  16, rue des pénitents blancs - 31000 Toulouse, France
+> 📞 +33 7 77 05 38 13 &nbsp;&nbsp;•&nbsp;&nbsp; 📧 [quentin.chenevier@gmail.com](mailto:quentin.chenevier@gmail.com)\
+> ✉️ 16, rue des pénitents blancs - 31000 Toulouse, France
