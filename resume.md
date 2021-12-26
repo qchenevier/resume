@@ -7,9 +7,6 @@ title: Quentin Chenevier
 
 >  **Data Scientist, Manager & MBA**
 
-<!-- > Makers are today’s leaders ! Highly qualified engineer and project leader, I’m resourceful and enthusiast to tackle new challenges. I like to make, learn & share and to embrace multiple roles.
-> Passionate about data science and graduated with an MBA from the Toulouse Business School since March 2018, I work my best to bring Intelligence to Humanity. -->
-
 > Passionate about data science and graduated with an MBA, I like to embrace multiple roles. I'm a maker who values impact, agility & intelligence. As a manager, my style is about simplifying & enabling.
 
 ----
@@ -140,7 +137,7 @@ Open Source Contributions &nbsp;<i class="fab fa-github"></i>
 : a digital audio workstation, fully in-browser, deployed here [👉 scribbleton.live](https://scribbleton.live/) -- [vuejs](#vuejs), [nuxtjs](#nuxtjs)
 
 [📝 HuMa](https://github.com/qchenevier/huma)
-: a blog about Humans & Machines, deployed here [👉 huma.io](https://huma.io/) -- [vuejs](#vuejs), [nuxtjs](#nuxtjs)
+: a blog about Humans & Machines, deployed here [👉 qchenevier.github.io/huma](https://qchenevier.github.io/huma/) -- [vuejs](#vuejs), [nuxtjs](#nuxtjs)
 
 [📄 Resume](https://github.com/qchenevier/resume)
 : this resume, automatically generated from markdown to HTML to PDF & available as a [👉&nbsp;web&nbsp;page](https://raw.githack.com/qchenevier/resume/master/resume.html) and a [👉 pdf](https://raw.githubusercontent.com/qchenevier/resume/master/resume.pdf)
@@ -162,7 +159,7 @@ Hobbies &nbsp;<i class="fa fa-gamepad"></i> <i class="fa fa-book"></i>
 ------------------------
 
 Travelling
-: 19 countries visited: Canada, Viêtnam, Kazakhstan...
+: 19 countries visited: Canada, Vietnam, Kazakhstan...
 
 Learning
 : **Enlightenment Now** - Steven Pinker | **Drive** - Daniel Pink | **Thinking Fast & Slow** - Daniel Kahnemann | **Nudge** - Thaler & Sunstein | **Value Proposition Design** - Strategyzer | **Business Model Generation** - Strategyzer | **Le Triple Moi** - Gysa Jaoui | **Clean Code** - Robert Cecil Martin | **The Value of Everything** - Mariana Mazzucato | **Sapiens** - Yuval Noah Harari
@@ -172,4 +169,3 @@ Learning
 ----
 
 > 📞 +33 7 77 05 38 13 &nbsp;&nbsp;•&nbsp;&nbsp; 📧 [quentin.chenevier@gmail.com](mailto:quentin.chenevier@gmail.com)\
-> ✉️ 16, rue des pénitents blancs - 31000 Toulouse, France
