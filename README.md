@@ -1,23 +1,33 @@
-Inspired by https://github.com/chmduquesne/resume
+# 📄 Resume 
 
-To be used with the markdown preview enhanced plugin within atom.
+📄 Resume for the tech-savvies:
+- edit it in **markdown**
+- share it as **html**
+- send it as **pdf**
 
+Inspired by [chmduquesne/resume](https://github.com/chmduquesne/resume)
 
-## Dev stack
+## Content
 
-```mermaid
-graph LR;
+- resume as html here 👉 [qchenevier.github.io/resume/](https://qchenevier.github.io/resume/)
+- resume as pdf here 👉 [resume.pdf](https://raw.githubusercontent.com/qchenevier/resume/master/resume.pdf)
 
-  subgraph "Automatic build"
-  watch-- triggers every 0.5 seconds -->make;
-  make-- build only if source change -->pandoc;
-  make-- build only if source change -->weasyprint;
-  end
+## How to use
 
-  subgraph "Automatic reload"
-  puer-- reloads browser if page changes -->web_browser;
-  end
-```
+[comment]: # (```mermaid)
+[comment]: # (graph LR;)
+[comment]: # ()
+[comment]: # (  subgraph "Automatic build")
+[comment]: # (  watch-- triggers every 0.5 seconds-->make;)
+[comment]: # (  make-- build only if source change-->pandoc;)
+[comment]: # (  make-- build only if source change-->weasyprint;)
+[comment]: # (  end)
+[comment]: # ()
+[comment]: # (  subgraph "Automatic reload")
+[comment]: # (  puer-- reloads browser if page changes-->web_browser;)
+[comment]: # (  end)
+[comment]: # (```)
+![](stack.png)
 
 Build management is done with `make`, which calls:
 - `pandoc` to translate markdown to html
