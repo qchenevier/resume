@@ -1,6 +1,6 @@
 # 📄 Resume 
 
-📄 Resume for the tech-savvies:
+Resume for the tech-savvies:
 - edit it in **markdown**
 - share it as **html**
 - send it as **pdf**
