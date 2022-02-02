@@ -35,7 +35,7 @@ Build management is done with `make`, which calls:
 
 Auto-build is done with `watch`.
 
-Auto-reload (for html) is done with `puer`.
+Auto-reload (for html) is done with `svrx` (server-x).
 
 ### Installation
 
@@ -58,9 +58,9 @@ brew install watch
 ```
 
 #### Auto-reload
-Installation of `puer` is done with `npm`
+Installation of `svrx` (server-x) is done with `npm`
 ```
-npm install -g puer
+npm install -g @svrx/cli
 ```
 
 ### Launch
@@ -80,7 +80,7 @@ watch -n 0.5 make
 #### Auto-reload
 Launch puer to launch a webserver which will autoreload the html page when it has changed:
 ```
-puer
+svrx
 ```
 
 Then go to http://localhost:8000/resume.html to see the result.

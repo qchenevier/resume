@@ -8,6 +8,11 @@
     margin-right: 0cm;
 }
 
+:root {
+    --side-bar-size: 12%;
+    --color-outline: #1f57b3;
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 80%;
@@ -18,7 +23,6 @@ body {
     padding-right: 40px;
     background: #FFFFFF;
 }
-
 
 /* Title of the resume */
 h1 {
@@ -32,7 +36,7 @@ h1 {
 
 /* Titles of categories */
 h2 {
-    color: #00307d;
+    color: var(--color-outline);
 }
 
 /* There is a bar just before each category */
@@ -40,9 +44,10 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right: 2%;
-    width: 16%;
+    width: calc(var(--side-bar-size) - 16px);
+    /* width: 12%; */
     height: 2px;
-    background-color: #4287f5;
+    background-color: var(--color-outline);
 }
 
 /* Definitions */
@@ -53,24 +58,48 @@ dl {
 dt {
     float: left;
     clear: left;
-    width: 17%;
+    width: var(--side-bar-size);
     margin-top: 0px;
 }
 
 dd {
     margin-top: 0px;
     margin-bottom: 6px;
-    margin-left: 18%;
+    margin-left: var(--side-bar-size);
 }
 
 p {
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 
-discrete, .discrete {
-    color: darkgrey;
+lite, date {
+    color: rgb(126, 126, 126);
     font-size: 80%;
+}
+
+lite {
+    padding-left: 6px;
+}
+
+date {
+    text-align: right;
+}
+
+sk, tk {
+    border-radius: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+sk {
+    background-color:#ecf4ff;
+    color: #1f57b3;
+}
+
+tk {
+    color:#ecf4ff;
+    background-color: #1f57b3;
 }
 
 /* Blockquotes */
@@ -82,7 +111,7 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #00307d;
+    color: var(--color-outline);
 }
 a:hover, a:active {
     text-decoration: underline;
@@ -95,11 +124,15 @@ hr {
 
 ul {
     margin-bottom: 8px;
+    margin-top: 0px;
+    padding-inline-start: 18px;
 }
 
 li {
     list-style-type: none;
     position: relative;    /* It is required for setting position to absolute in the next rule. */
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 li::before {
