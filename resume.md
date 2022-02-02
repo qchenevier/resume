@@ -11,7 +11,7 @@ title: Quentin Chenevier
 
 ----
 
-Skills &nbsp;<i class="fas fa-user-cog"></i>
+Skills &nbsp;<i class="fa fa-check-circle"></i>
 ----------------------------------
 
 - Data scientist
@@ -44,7 +44,7 @@ Skills &nbsp;<i class="fas fa-user-cog"></i>
 <sk>performance\ management</sk>
 <sk>recruiting</sk>
 
-Tech mastery &nbsp;<i class="fa fa-check-circle"></i>
+Technologies &nbsp;<i class="fa fa-cogs"></i>
 ----------------------------------
 
 - Machine Learning
@@ -189,6 +189,8 @@ learning: **80% automation & 1M€ savings / year**
 : **Scientific Engineer** @ Noveltis<lite>Toulouse, France</lite>
 
     - Calibration of a space spectrometer: **250+ GB analyzed** <sk>data preparation</sk> <sk>modelling</sk>
+
+</br>
 
 Education &nbsp;<i class="fa fa-graduation-cap"></i>
 ---------
