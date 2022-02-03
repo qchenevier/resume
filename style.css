@@ -44,8 +44,8 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right: 2%;
-    width: calc(var(--side-bar-size) - 16px);
-    /* width: 12%; */
+    /* width: calc(var(--side-bar-size) - 16px); */
+    width: 10%;
     height: 2px;
     background-color: var(--color-outline);
 }
@@ -84,6 +84,11 @@ lite {
 
 date {
     text-align: right;
+    line-height: 0.1em;
+}
+
+bar {
+    font-size: 0.1em
 }
 
 sk, tk {
@@ -123,9 +128,9 @@ hr {
 }
 
 ul {
-    margin-bottom: 8px;
+    margin-bottom: 18px;
     margin-top: 0px;
-    padding-inline-start: 18px;
+    padding-left: 18px;
 }
 
 li {

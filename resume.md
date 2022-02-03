@@ -11,90 +11,13 @@ title: Quentin Chenevier
 
 ----
 
-Skills &nbsp;<i class="fa fa-check-circle"></i>
-----------------------------------
-
-- Data scientist
-<sk>exploratory data analysis</sk>
-<sk>data preparation</sk>
-<sk>modeling</sk>
-<sk>dashboarding</sk>
-<sk>explainability</sk>
-
-- Senior Data scientist
-<sk>junior\ coaching</sk>
-<sk>ML teaching</sk>
-
-- Tech lead
-<sk>technical\ debt\ management</sk>
-<sk>coding\ best\ practices</sk>
-<sk>architecture\ design</sk>
-
-- Business consultant
-<sk>business\ development</sk>
-<sk>need\ analysis</sk>
-<sk>change\ management</sk>
-
-- Product manager
-<sk>backlog\ definition</sk>
-<sk>agile\ coaching</sk>
-<sk>UI\ design</sk>
-
-- Manager
-<sk>performance\ management</sk>
-<sk>recruiting</sk>
-
-Technologies &nbsp;<i class="fa fa-cogs"></i>
-----------------------------------
-
-- Machine Learning
-<tk>sklearn</tk>
-<tk>pytorch</tk>
-<tk>SHAP</tk>
-<tk>lime</tk>
-<tk>gensim</tk>
-<tk>gemseo</tk>
-<tk>pytorch-lightning</tk>
-<tk>keras</tk>
-
-- MLOps & DevOps
-<tk>kedro</tk>
-<tk>neptune</tk>
-<tk>dvc</tk>
-<tk>AWS Batch</tk>
-<tk>AWS EC2</tk>
-<tk>ansible</tk>
-<tk>bash</tk>
-<tk>git</tk>
-<tk>flake8</tk>
-
-- Data Engineering
-<tk>python</tk>
-<tk>pandas</tk>
-<tk>pyspark</tk>
-<tk>polars</tk>
-<tk>dask</tk>
-<tk>numpy</tk>
-<tk>sql</tk>
-<tk>fortran77</tk>
-
-- Dashboarding & Front-end
-<tk>panel</tk>
-<tk>dash</tk>
-<tk>plotly</tk>
-<tk>seaborn</tk>
-<tk>altair</tk>
-<tk>JS</tk>
-<tk>Vue.js</tk>
-<tk>Nuxt.js</tk>
-
 Experience &nbsp;<i class="fa fa-suitcase"></i>
 --------------------
 
 <date>Now</br>⎹</br>2020</date>
 : **Lecturer** @ Toulouse Business School<lite>Toulouse, France</lite>
 
-    - AI Course for executives
+    - AI & decision-making course for executives: **3 classes, 80+ students**
 <sk>ML teaching</sk>
 
 <date>Now</br>⎹</br>2020</date>
@@ -110,6 +33,7 @@ analysis time **reduced from months to minutes**
 <sk>backlog definition</sk>
 <sk>UI\ design</sk>
 <sk>technical\ debt\ management</sk>
+<sk>architecture\ design</sk>
 
     - Grow the team & find opportunities: **3 recruitments**
 <sk>recruiting</sk>
@@ -127,7 +51,7 @@ analysis time **reduced from months to minutes**
 <date>2021</date>
 : **Lecturer** @ ENAC<lite>Toulouse, France</lite>
 
-    - ML Course for engineers
+    - ML Course for engineers: **25+ students**
 <sk>ML teaching</sk>
 
 <date>2020 • 2 years</br>⎹</br>2018</date>
@@ -216,6 +140,82 @@ Education &nbsp;<i class="fa fa-graduation-cap"></i>
 <date>2016 - 2017</date>
 :   Udacity - Data Analyst Nanodegree
 
+Skills &nbsp;<i class="fa fa-check-circle"></i>
+----------------------------------
+
+- Data scientist
+<sk>exploratory data analysis</sk>
+<sk>data preparation</sk>
+<sk>modeling</sk>
+<sk>dashboarding</sk>
+<sk>explainability</sk>
+
+- Senior Data scientist
+<sk>junior\ coaching</sk>
+<sk>ML teaching</sk>
+
+- Tech lead
+<sk>technical\ debt\ management</sk>
+<sk>coding\ best\ practices</sk>
+<sk>architecture\ design</sk>
+
+- Business consultant
+<sk>business\ development</sk>
+<sk>need\ analysis</sk>
+<sk>change\ management</sk>
+
+- Product manager
+<sk>backlog\ definition</sk>
+<sk>agile\ coaching</sk>
+<sk>UI\ design</sk>
+
+- Manager
+<sk>performance\ management</sk>
+<sk>recruiting</sk>
+
+Technologies &nbsp;<i class="fa fa-cogs"></i>
+----------------------------------
+
+- Machine Learning
+<tk>sklearn</tk>
+<tk>pytorch</tk>
+<tk>SHAP</tk>
+<tk>lime</tk>
+<tk>gensim</tk>
+<tk>gemseo</tk>
+<tk>pytorch-lightning</tk>
+<tk>keras</tk>
+
+- MLOps & DevOps
+<tk>kedro</tk>
+<tk>neptune</tk>
+<tk>dvc</tk>
+<tk>AWS Batch</tk>
+<tk>AWS EC2</tk>
+<tk>ansible</tk>
+<tk>bash</tk>
+<tk>git</tk>
+<tk>flake8</tk>
+
+- Data Engineering
+<tk>python</tk>
+<tk>pandas</tk>
+<tk>pyspark</tk>
+<tk>polars</tk>
+<tk>dask</tk>
+<tk>numpy</tk>
+<tk>sql</tk>
+<tk>fortran77</tk>
+
+- Dashboarding & Front-end
+<tk>panel</tk>
+<tk>dash</tk>
+<tk>plotly</tk>
+<tk>seaborn</tk>
+<tk>altair</tk>
+<tk>JS</tk>
+<tk>Vue.js</tk>
+<tk>Nuxt.js</tk>
 
 Open Source Contributions &nbsp;<i class="fab fa-github"></i>
 ----------------------------------
@@ -246,7 +246,7 @@ infrastructure as code to mimic AWS Sagemaker Notebook <tk>ansible</tk> <tk>AWS 
 [🌍 Eumetsat OSX Wallpaper](https://github.com/qchenevier/eumetsat-osx-wallpaper):
 real time view of our planet in your macbook's wallpaper <tk>python</tk>
 
-Hobbies &nbsp;<i class="fa fa-gamepad"></i> <i class="fa fa-book"></i>
+Hobbies &nbsp;<i class="fa fa-gamepad"></i>
 ------------------------
 
 Travelling
