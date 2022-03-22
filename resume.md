@@ -1,6 +1,6 @@
 ---
 output: html_document
-title: Quentin Chenevier - Lead Data scientist
+title: Quentin Chenevier - Lead Data Scientist
 ---
 
 ----
